@@ -9,8 +9,8 @@
 title                    : "Boxiao Wang | 王博霄"
 description              : "LLM Agents, Reinforcement Learning, and AI for Scientific Discovery"
 url                      : "https://wswbx.github.io"
-baseurl                  : "/wangboxiao.github.io"
-repository               : "wswbx/wangboxiao.github.io"
+baseurl                  : ""
+repository               : "wswbx/wswbx.github.io"
 google_scholar_stats_enabled : false
 google_scholar_stats_use_cdn : false
 

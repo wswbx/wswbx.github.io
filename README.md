@@ -2,7 +2,7 @@
 
 这是基于 [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) 与 [jinzhuoran.github.io](https://github.com/jinzhuoran/jinzhuoran.github.io) 制作的个人学术主页。
 
-当前部署地址：[https://wswbx.github.io/wangboxiao.github.io/](https://wswbx.github.io/wangboxiao.github.io/)
+部署地址：[https://wswbx.github.io/](https://wswbx.github.io/)
 
 ## 已完成
 
