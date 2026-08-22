@@ -3,7 +3,9 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .bundle/
-vendor/
+/vendor/
+assets/js/vendor/
+Gemfile.lock
 push.sh
 build_site.ps1
 run_server.ps1
