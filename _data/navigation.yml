@@ -1,0 +1,28 @@
+# Main navigation links
+main:
+  - title: "About"
+    url: "#about-me"
+
+  - title: "Research"
+    url: "#-research"
+
+  - title: "News"
+    url: "#-news"
+
+  - title: "Publications"
+    url: "#-selected-publications"
+
+  - title: "Experience"
+    url: "#-industry-experience"
+
+  - title: "Projects"
+    url: "#-selected-projects"
+
+  - title: "Education"
+    url: "#-education"
+
+  - title: "Honors"
+    url: "#-honors"
+
+  - title: "Services"
+    url: "#-services"
