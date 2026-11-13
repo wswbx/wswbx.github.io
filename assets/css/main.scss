@@ -248,6 +248,15 @@ h1:before, .anchor:before {
     letter-spacing: .04em;
 }
 
+.publication-visual-badge .ccf-rank {
+    margin: -.3rem -.68rem -.3rem .6rem;
+    padding: .3rem .6rem;
+    border-radius: 0 6px 6px 0;
+    background: #fff;
+    color: #d0021b;
+    display: inline-block;
+}
+
 .publication-details {
     padding: 1.25rem 1.35rem;
 }
