@@ -84,11 +84,11 @@ My research sits at the intersection of **LLM agents**, **reinforcement learning
 
 <div class="featured-publication">
   <div class="publication-visual">
-    <span class="publication-visual-badge">KDD 2027<span class="ccf-rank">CCF-A</span></span>
+    <span class="publication-visual-badge">KDD 2027 · Oral<span class="ccf-rank">CCF-A</span></span>
     <img src="images/publication/mot-sr-kdd-2027-framework.png" alt="MOT-SR framework overview">
   </div>
   <div class="publication-details">
-    <div class="publication-topline"><span class="author-role">First Author · Oral</span></div>
+    <div class="publication-topline"><span class="author-role">First Author</span></div>
     <h2>MOT-SR: Multi-Objective Tool-Augmented Scientific Equation Discovery with Large Language Models</h2>
     <p class="publication-authors"><strong>Boxiao Wang</strong>, Runxiang Wang, Kai Li<sup>*</sup>, Chongming Li, Zhiwei Chen, Yifan Zhang<sup>*</sup>, Jian Cheng</p>
     <p class="publication-author-note"><sup>*</sup> Corresponding authors</p>
