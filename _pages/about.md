@@ -51,7 +51,7 @@ My research sits at the intersection of **LLM agents**, **reinforcement learning
 * **2026-09** - Started my direct Ph.D. in Computer Applications at the [Institute of Automation, Chinese Academy of Sciences (CASIA)](http://www.ia.ac.cn/).
 * **2026-07** - Released [MOT-SR](https://arxiv.org/abs/2607.29561), a multi-objective tool-augmented framework for scientific equation discovery.
 * **2026-05** - Our paper [PiT-PO](https://arxiv.org/abs/2602.10576) was accepted by the **KDD 2026** <span class="ccf-inline">(CCF-A)</span>.
-* **2026-03** - Joined DP Technology as a research intern, working on VLA, agents, and AI for Science.
+* **2026-03** - Joined DP Technology as a research intern, working on foundation models, agents, and AI for Science.
 * **2026-02** - Released [PiT-PO](https://arxiv.org/abs/2602.10576), a physics-informed policy optimization framework for scientific equation discovery.
 * **2025-09** - Started the CCF × Baidu Pinecone Fund project on LLM-based turbulence modeling.
 * **2025** - The Panshi Scientific Foundation Model team was selected as a **Chinese Academy of Sciences Annual Team（中科院年度团队）**.
