@@ -47,9 +47,9 @@ My research sits at the intersection of **LLM agents**, **reinforcement learning
 
 # 🔥 News
 
-* **2026-11** - Our paper [MOT-SR](https://arxiv.org/abs/2607.29561) was accepted by **KDD 2027** as an **Oral** presentation.
+* **2026-11** - Our paper [MOT-SR](https://arxiv.org/abs/2607.29561) was accepted by **KDD 2027** <span class="ccf-inline">(CCF-A)</span> as an **Oral** presentation.
 * **2026-07** - Released [MOT-SR](https://arxiv.org/abs/2607.29561), a multi-objective tool-augmented framework for scientific equation discovery.
-* **2026-05** - Our paper [PiT-PO](https://arxiv.org/abs/2602.10576) was accepted by the **KDD 2026 AI for Science Track**.
+* **2026-05** - Our paper [PiT-PO](https://arxiv.org/abs/2602.10576) was accepted by the **KDD 2026 AI for Science Track** <span class="ccf-inline">(CCF-A)</span>.
 * **2026-03** - Joined DP Technology as a research intern, working on VLA, agents, and AI for Science.
 * **2026-02** - Released [PiT-PO](https://arxiv.org/abs/2602.10576), a physics-informed policy optimization framework for scientific equation discovery.
 * **2025-09** - Started the CCF × Baidu Pinecone Fund project on LLM-based turbulence modeling.
